@@ -114,7 +114,7 @@ a:hover {
 }
 
 .large-logo {
-	margin: -60vh 0;
+	margin: -400px 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -323,9 +323,9 @@ footer span {
 }
 
 @media(max-width:768px) {
-	.large-logo {
+	/* .large-logo {
 		margin: -10vh 0 !important;
-	}
+	} */
 
 	body {
 		min-width: initial !important;
